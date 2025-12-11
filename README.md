@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parthiban Rajeshwari
+- 👋 Hi, I’m Parthiban
 - 📫 How to reach me Parthiban26.pi@gmail.com
 <!---
 ParthiRajesh26/ParthiRajesh26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
